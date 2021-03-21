@@ -1,0 +1,509 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"c",
+				"cursor\tproperty"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"a",
+				"auto\tpadding"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"mysql_f",
+				"mysql_fetch_assoc"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"PAS",
+				"password"
+			],
+			[
+				"clo",
+				"color\tproperty"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"get",
+				"getElemnetById"
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"pas",
+				"passmsg"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"pass",
+				"passmsg"
+			],
+			[
+				"p",
+				"position\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"to",
+				"toLocaleTimeString"
+			],
+			[
+				"op",
+				"operator"
+			],
+			[
+				"e",
+				"equal"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"conta",
+				"container-fluid"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"col-",
+				"col-md-6"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"bac",
+				"background-repeat\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"tes",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"fla",
+				"float\tproperty"
+			],
+			[
+				"i",
+				"icon"
+			],
+			[
+				"backgr",
+				"background-repeat\tproperty"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"bak",
+				"background-color\tproperty"
+			],
+			[
+				"s",
+				"sticky\tposition"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"text-de",
+				"text-decoration\tproperty"
+			],
+			[
+				"b",
+				"border-color\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"botm",
+				"bottom\tproperty"
+			],
+			[
+				"bo",
+				"border-style\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/User/Desktop/new project/e-commerce/app/Http/Controllers/UserController.php",
+		"/C/Users/User/Desktop/new project/e-commerce/resources/views/user/layout/service.blade.php",
+		"/C/Users/User/Desktop/new project/e-commerce/public/user/homepage.blade.php",
+		"/C/Users/User/Desktop/laravel/example-app/resources/views/homepage.blade.php",
+		"/C/Users/User/Desktop/laravel/example-app/resources/views/addproduct.blade.php",
+		"/C/Users/User/Desktop/laravel/example-app/routes/console.php",
+		"/C/Users/User/Desktop/laravel/example-app/routes/web.php",
+		"/C/Users/User/Desktop/laravel/example-app/resources/views/editproduct.blade.php",
+		"/C/Users/User/Desktop/laravel/example-app/app/Http/Controllers/myController.php",
+		"/C/Users/User/Desktop/laravel/example-app/resources/views/showproduct.blade.php",
+		"/C/Users/User/Desktop/website/mobile.html",
+		"/C/Users/User/Desktop/laravel/example-app/app/Models/Product.php",
+		"/C/Users/User/Desktop/laravel/example-app/database/migrations/2021_03_07_024242_create_products_table.php",
+		"/C/Users/User/Desktop/laravel/example-app/.env",
+		"/C/Users/User/Desktop/mobile.html",
+		"/C/Users/User/Desktop/laravel/example-app/resources/views/firstpage.blade.php",
+		"/C/Users/User/Desktop/laravel/example-app/resources/views/secondpage.blade.php",
+		"/C/Users/User/Desktop/laravel/example-app/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/php_class/edit.php",
+		"/C/xampp/htdocs/php_class/act_adduser.php",
+		"/C/xampp/htdocs/php_class/add.php",
+		"/C/xampp/htdocs/php_class/connection.php",
+		"/C/xampp/htdocs/php_class/showimage.php",
+		"/C/xampp/htdocs/php_class/act_imageupload.php",
+		"/C/xampp/htdocs/php_class/act_update.php",
+		"/C/xampp/htdocs/php_class/showdata.php",
+		"/C/xampp/htdocs/php_class/delete.php",
+		"/C/xampp/htdocs/php_class/imageupload.php",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/jquery/showhidepassword.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/jquery/onchange.js",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/jquery/onchange.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/jquery/accordian.js",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/jquery/accordian.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/jquery/showhidepassword.js",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/jquery/showhide.js",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/jquery/showhide.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/jquery/fadetoggle.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/jquery/fadetoggle.js",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/jquery/toggle.js",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/jquery/fadein.js",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/jquery/fadeout.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/jquery/fadeout.js",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/jquery/fadein.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/jquery/toggle.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/jquery/jquery.js",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/jquery/hide.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/jquery/hide.js",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/jquery/show.js",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/jquery/show .html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/jquery/show .js",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/fromvalidation.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/add event listioner.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/new formvalidation.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/switch in form.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/dom(document object model).html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/prime number.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/break and continue.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/do whwile loop.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/while loop.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/nested loop.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/for loop.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/ms_slider.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/array.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/datin box.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/swtich case for date.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/date.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/nested loop. html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/percentage.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/switch.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/odd or even.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/logical operative.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/new.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/if statement.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/string.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/object.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/concat.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/datatype.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/arithmetic operator.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/java script/variable.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/worldlink/firstpage.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/worldlink/worldlinkoutly.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/contact.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/services.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/style.css",
+		"/C/Users/User/Desktop/bootstrap/column.html/layout.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/column.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/worldlinkcopy/movie.html",
+		"/C/Users/User/Desktop/bootstrap/column.html/worldlinkcopy/movie_files/slick-theme.css",
+		"/C/Users/User/Desktop/bootstrap/column.html/card.html",
+		"/C/Karuna/html page/form3.html",
+		"/C/Karuna/html page/layout.html",
+		"/C/Karuna/html page/layout.css",
+		"/C/Karuna/html page/form3.css",
+		"/C/Karuna/html page/form2.html",
+		"/C/Karuna/html page/navbar dropdown.html",
+		"/C/Karuna/html page/navbar.html",
+		"/C/Karuna/html page/float.css",
+		"/C/Karuna/html page/flex.html",
+		"/C/Karuna/html page/position relative absolute.html",
+		"/C/Karuna/html page/position sticky.html",
+		"/C/Karuna/html page/child slector.htm",
+		"/C/Karuna/html page/desendent selector.html",
+		"/C/Karuna/html page/position.html",
+		"/C/Karuna/html page/float.html",
+		"/C/Karuna/html page/general sibling selector.html",
+		"/C/Karuna/html page/adjacent sibling selector.html",
+		"/C/Karuna/html page/div.html",
+		"/C/Karuna/html page/outline.html",
+		"/C/Karuna/html page/absolute postion.html",
+		"/C/Karuna/html page/hello.html",
+		"/C/Karuna/html page/table.html",
+		"/C/Karuna/html page/padding .html",
+		"/C/Karuna/html page/border.html",
+		"/C/Karuna/html page/margin.html",
+		"/C/Karuna/html page/form2.css",
+		"/C/Users/User/rajat.html",
+		"/C/Users/User/rajat.css",
+		"/C/Karuna/html page/visit nepal.html",
+		"/C/Karuna/html page/list.html",
+		"/C/Karuna/html page/about.html",
+		"/C/Karuna/html page/webtest.html",
+		"/C/Karuna/html page/portfolio.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">')\n",
+			"margin",
+			"<!--value-added-services/my-worldlink-app\" target=\"_blank\">-->",
+			"refer",
+			"offer",
+			"refer offer",
+			"send"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "about.blade.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
