@@ -11,11 +11,20 @@ class AdminController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
+    public function __construct()
+    {
+        $this->middleware('auth:web');
+    }
     public function index()
     {
         return view('admin.adminhome');
     }
-
+    public function addcategory(){
+        return view('admin.admincategory');
+    }
+    public function addproduct(){
+        return view('admin.adminproduct');
+    }
     /**
      * Show the form for creating a new resource.
      *
